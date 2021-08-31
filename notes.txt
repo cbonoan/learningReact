@@ -1,0 +1,8 @@
+- Components 
+    - React idea and what all user interfaces use 
+    - Reusable building blocks on a web page
+    - Just a JS function
+- How a component is built 
+    - React combines HTML, CSS (not as important), and JS to create a component
+    - React uses a declarative approach 
+        - Define desired target states and let React find out what DOM elements to use 
