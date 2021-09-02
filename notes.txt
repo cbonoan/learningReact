@@ -6,3 +6,5 @@
     - React combines HTML, CSS (not as important), and JS to create a component
     - React uses a declarative approach 
         - Define desired target states and let React find out what DOM elements to use 
+- Need to use {} to access js variables
+    - Can use put in js anything inside {}
